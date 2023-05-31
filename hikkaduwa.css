@@ -4,7 +4,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .container{
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) ,url(/images/hikkaduwa-bg.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) ,url(./images/hikkaduwa-bg.jpg);
     height: 870vh;
     background-position: center;
     background-size: cover;
