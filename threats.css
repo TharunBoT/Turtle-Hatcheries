@@ -4,7 +4,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .container{
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(/images/threats-bg.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(./images/threats-bg.jpg);
     background-position: center;
     background-size: cover;
     height: 940vh;
