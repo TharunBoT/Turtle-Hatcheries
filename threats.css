@@ -8,7 +8,7 @@
     background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(./images/threats-bg.jpg);
     background-position: center;
     background-size: cover;
-    height: 940vh;
+    height: 100%;
     width: 100%;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -113,7 +113,7 @@ nav ul li a{
     text-align: center;
 }
 .sec-img{
-    display: flexbox;
+    display: flex;
     padding: 3% 0;
 }
 .sec-img img{
